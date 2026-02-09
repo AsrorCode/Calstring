@@ -1,5 +1,5 @@
 # GeometryGuru
 
-Calculator hisoblaydigan dasturcha for you
+**Calculator hisoblaydigan dasturcha yangilandi istalgancha foydalanishingiz mumkin**
 
 ![Demo gif](Assest/Calstring_Loyiha.gif)
