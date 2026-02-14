@@ -17,13 +17,13 @@ namespace CalculatorApp
             Console.Write("Amalni tanlang (+, -, *, /): ");
             string op = Console.ReadLine();
 
-            // Ma'lumotlarni tekshirish va obyekt yaratish
+            
             if (double.TryParse(input1, out double n1) && double.TryParse(input2, out double n2))
             {
-                // Constructor orqali obyekt yaratish
+                                
                 Calculator meningKalkulyatorim = new Calculator(n1, n2);
                 
-                // Metodni chaqirish
+                
                 meningKalkulyatorim.Hisobla(op);
             }
             else
